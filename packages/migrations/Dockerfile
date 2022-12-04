@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:10
+FROM mhart/alpine-node:10@sha256:e90b1f8360bed01a8e5e7fcdfe199137063eae27d77474e6c27d397670ce08d5
 
 WORKDIR /usr/src/app
 
